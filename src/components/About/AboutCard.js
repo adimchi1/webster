@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import {Col } from "react-bootstrap";
 import { ImPointRight } from "react-icons/im";
-import Type from "./Type";
+
 import ELE from "../../Assets/Elettra.jpeg";
 import Launch from "@material-ui/icons/Launch"
 import Email from "@material-ui/icons/Email"
