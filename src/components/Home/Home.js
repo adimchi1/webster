@@ -27,7 +27,7 @@ function Home() {
                 
                 into a day filled with mishaps and meanies. Webster discovers that what makes him unusual <br></br>
                 makes him unique. Everyone is different, and that is magnificent!
-                makes him unique. Everyone is different, and that is magnificent!<p></p>
+                <p></p>
                   <br/>
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻

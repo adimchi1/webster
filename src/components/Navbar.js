@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/Picture 4.jpg";
+import logo from "../Assets/Book Cover.jpeg";
 
 import { Link } from "react-router-dom";
 
